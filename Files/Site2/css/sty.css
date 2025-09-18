@@ -1,0 +1,377 @@
+*{
+    padding:0;
+    margin:0;
+}
+
+.A{
+    width:100%;
+    height:100vh;
+    background-image: linear-gradient(120deg, rgb(160, 49, 194),rgb(130, 33, 241)) ;
+}
+
+.container{
+    width:80%;
+    height:100%;
+    background-color: none;
+    margin: 0 auto;
+}
+
+header{
+    width:100%;
+    color:white ;
+    background-color:none;
+    padding:50px 0px;
+}
+
+h2{
+    font-size: 50px;
+    color: white;
+    margin-left:40px;
+}
+header h2{
+    display: inline;
+}
+
+nav{
+    display: inline;
+}
+
+nav ul{
+    display: inline;
+    margin-left:30%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+nav ul li{
+    display:inline;
+    margin-left:3%;
+    margin-bottom:5%;
+}
+
+nav a{
+    text-decoration: none;
+    color:white;
+}
+
+.sign{
+    background-color: white;
+    padding:10px 10px;
+    color:orange;
+    border-radius: 50px;
+}
+
+.start{
+    background-color: orange;
+    background-image:linear-gradient(180deg,rgb(219, 147, 13),rgb(227, 176, 81));
+    padding:10px 10px;
+    border-radius: 80px;
+}
+
+.box{
+    width:100%;
+    height:80%;
+    background-color: none;
+    margin:5px 0px;
+    font-size: 20px;
+    margin-bottom:50px;
+}
+
+.but{
+    width:60%;
+    height:5%;
+    font-size:90%;
+    padding:25px 10px;
+    margin-left:18%;
+    margin-top:40px;
+    border:none;
+    border-radius: 8px;
+    outline:none;
+    margin-right:20%;
+}
+
+.va{
+    padding:150px 0px;
+    padding-bottom:10px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.ba{
+    padding-top:50px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    padding-bottom:50px;
+    color:white;
+}
+
+.button1 a{
+    background-color: rgb(209, 142, 17);
+    background-image:linear-gradient(100deg,rgb(219, 147, 13),rgb(227, 176, 81));
+    font-family:Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    color:white;
+    display:inline;
+    padding:15px 20px;
+    font-size: 15px;
+    margin-top: 10%;
+}
+
+.box1{
+    width:50%;
+    height:70%;
+    background-color:none;
+    margin:0px 600px;
+    font-size: 20px;
+    position:relative;
+    bottom:500px;
+}
+
+.photo{
+    width:90%;
+    height:100%;
+    margin-left:10%;
+    margin-top:15%;
+}
+
+
+.B{
+    background-color: none;
+    width:100%;
+    height:100%;
+}
+
+.container2{
+    background-color: none;
+    width:80%;
+    height:100%;
+    margin: 0 auto;
+    display: flex;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.box2{
+    width:40%;
+    height:100%;
+    background-color: none;
+    font-size: 40px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+}
+
+h3{
+    margin-top: 60px;
+    color:rgb(44, 44, 232)
+}
+
+.par{
+    font-size: 35px;
+    margin-top: 50px;
+    color:rgb(112, 17, 131);
+}
+
+.var{
+    font-size: 20px;
+    margin-top:20px;
+    margin-left:20px;
+    border-left:dotted 20px rgba(0, 0, 0, 0.708);
+}
+
+.bar{
+    font-size: 20px;
+    margin-top:10px;
+    margin-left:20px;
+    border-left:dotted 20px black;
+}
+
+.aar{
+    margin-top:50px;
+    font-size: 35px;
+    color:rgb(112, 17, 131);
+}
+
+.tar{
+    font-size: 20px;
+    margin-top:20px;
+    margin-left:20px;
+    border-left:dotted 20px rgba(0, 0, 0, 0.708);
+}
+
+.har{
+    font-size: 20px;
+    margin-top:10px;
+    margin-left:20px;
+    margin-bottom: 80px;
+    border-left:dotted 20px black;
+}
+
+.button2 a{
+    background-color:none;
+    color:rgb(112, 17, 131);
+    display: inline;
+    font-size: 25px;
+    text-decoration: none;
+}
+
+.box3{
+    width:60%;
+    height:100%;
+    background-color: none;
+    float:left;
+}
+
+.subbox{
+    width:40%;
+    height:40%;
+    background-color: white;
+    float:left;
+    margin-right:5%;
+    margin-bottom:2%;
+    margin-top:5%;
+    border-radius: 10%;
+    text-align: center;
+    box-shadow:10px 10px 10px 10px rgba(0, 0, 0, 0.156);
+}
+
+.ui{
+    padding:50px 0px;
+    font-size:30px;
+}
+
+
+.C{
+    width:100%;
+    height:80%;
+    background-image:linear-gradient(180deg,rgba(239, 199, 146, 0.688),rgba(215, 138, 222, 0.436))
+}
+
+.container3{
+    width:80%;
+    height:100%;
+    background-color: none;
+    margin:0 auto;
+    display:flex;
+}
+
+.box4{
+    background-color:none;
+    width:60%;
+    height:100%;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.hi{
+    margin-top:100px;
+    font-size:30px;
+}
+
+
+.bi{
+    margin-top:80px;
+    font-size: 20px;
+    margin-bottom:50px;
+}
+
+.button3 a{
+    background-color:rgb(237, 79, 22);
+    display:inline;
+    padding:10px 20px;
+    font-size: 15px;
+    color:white;
+    text-decoration: none;
+}
+
+.box5{
+    background-color:none;
+    width:40%;
+    height:100%;
+}
+
+.img{
+    width:100%;
+    height:80%;
+    margin-top:100px;
+}
+
+.D{
+    width:100%;
+    height:80%;
+    background-color:none;
+}
+
+.container4{
+    width:80%;
+    height:100%;
+    background-color:none;
+    margin:0 auto;
+    display: flex;
+}
+
+.box6{
+    width:30%;
+    height:100%;
+    background-color:none;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+h4{
+    margin-top: 50%;
+    color:rgb(52, 27, 213);
+    font-size:40px;
+}
+
+.ju{
+    margin-top:10%;
+    font-size:20px;
+    margin-bottom:50px;
+}
+
+.button4 a{
+    background-color:rgb(56, 56, 230);
+    padding:10px 15px;
+    color:white;
+    display: inline;
+    text-decoration: none;
+    border-radius:10%;
+}
+
+.box7{
+    width:70%;
+    height:100%;
+    background-color: none;
+}
+
+.subb{
+    width:60%;
+    height:12%;
+    background-color: aliceblue;
+    margin-bottom: 10%;
+    margin-top:100px;
+    border-radius: 5%;
+    margin-left:200px;
+    padding-left:80px;
+    font-size:15px;
+    box-shadow:10px 10px 10px 5px rgba(0, 0, 0, 0.156);
+}
+
+.subb2{
+    margin-right: 10px;
+    width:70%;
+    height:12%;
+    background-color: aliceblue;
+    border-radius:5%;
+    margin-bottom: 10%;
+    margin-top:100px;
+    padding-left:80px;
+    box-shadow:10px 10px 10px 5px rgba(0, 0, 0, 0.156);
+}
+
+.fa-regular{
+    font-size:50px;
+    padding-right:20px;
+}
+
+.fa-solid{
+    font-size:50px;
+}
+
+.fa-brands{
+    font-size:50px;
+}
